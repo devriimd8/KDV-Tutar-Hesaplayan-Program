@@ -20,3 +20,4 @@ tutar 1000 TL'den büyük ise KDV oranını %8 olarak KDV tutarı hesaplayan pro
         System.out.println("KDV'li Fiyat: " + kdvliFiyat);
     }
 }
+https://app.patika.dev/
